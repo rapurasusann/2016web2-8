@@ -1,4 +1,4 @@
-onlond =function(){
+onload =function(){
   var canvas = docment,getElementById('canvas');
   canvas,width =500；
   canvas,height = 300;
